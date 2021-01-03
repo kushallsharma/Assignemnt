@@ -39,6 +39,7 @@ One of the challenges experienced during the analysis was that, the number of th
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
     •	The chances of a campaign to be successful are more when the campaign is launched during the month of May and June of the year. 
+    
     •	The chances of a campaign to fail are highest when the campaign is launched during the month of October. 
 
 - What can you conclude about the Outcomes based on Goals?
@@ -52,4 +53,5 @@ One of the challenges experienced during the analysis was that, the number of th
 - What are some other possible tables and/or graphs that we could create?
 
     •	One of the graphs possible to plot is to check outcome based on the length of the campaigns to understand the length of exposure needed for reaching to goal
+    
     •	Also, we can tabulate or plot “Average Donations” versus the “goal” for successful campaigns to understand the reach of the campaign to achieve the goal for the target campaign.
