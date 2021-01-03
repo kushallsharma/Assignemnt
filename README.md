@@ -22,7 +22,7 @@ If we check another important fact that during October month, launches of the ca
 
 ### Analysis of Outcomes Based on Goals
 
-
+Resources/Outcomes_vs_Goals.png
  
 Graph 3.2 Outcome based on Goals for Plays Subcategory
 
