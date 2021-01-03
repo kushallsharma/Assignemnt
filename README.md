@@ -22,7 +22,8 @@ If we check another important fact that during October month, launches of the ca
 
 ### Analysis of Outcomes Based on Goals
 
-Resources/Outcomes_vs_Goals.png
+img width="283" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/76540649/103479903-d645c400-4d9e-11eb-863c-82891c9a6d8c.png"
+https://user-images.githubusercontent.com/76540649/103479903-d645c400-4d9e-11eb-863c-82891c9a6d8c.png
  
 Graph 3.2 Outcome based on Goals for Plays Subcategory
 
