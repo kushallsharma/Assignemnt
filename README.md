@@ -12,7 +12,7 @@ The purpose of this project is to understand impact of launch dates and funding 
 
 ### Analysis of Outcomes Based on Launch Date
 
-
+![](Resources/Theater_Outcomes_vs_Launch.png)
  
 Graph 3.1 Outcome based on Launch Date for Theatre Category 
 
@@ -22,8 +22,7 @@ If we check another important fact that during October month, launches of the ca
 
 ### Analysis of Outcomes Based on Goals
 
-img width="283" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/76540649/103479903-d645c400-4d9e-11eb-863c-82891c9a6d8c.png"
-https://user-images.githubusercontent.com/76540649/103479903-d645c400-4d9e-11eb-863c-82891c9a6d8c.png
+![](Resources/Outcomes_vs_Goals.png)
  
 Graph 3.2 Outcome based on Goals for Plays Subcategory
 
